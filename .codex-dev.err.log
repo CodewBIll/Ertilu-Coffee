@@ -1,0 +1,255 @@
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\8.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\8.pack.gz'
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaWhatsapp} label=... priority=... delay=...>
+                     ^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '4085155841'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function HiOutlineMapPin} label=... priority=... delay=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '86018049'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function MdRestaurantMenu} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '685591902'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaWhatsapp} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '20508062'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function MdDeliveryDining} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '2491067390'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function SiGrab} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '1861789118'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function SiShopee} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '3947261630'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaStore} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '666224830'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaFacebookF} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '169171742'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaTiktok} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '2011126174'
+}
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaWhatsapp} label=... priority=... delay=...>
+                     ^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '4085155841'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function HiOutlineMapPin} label=... priority=... delay=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '86018049'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function MdRestaurantMenu} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '685591902'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaWhatsapp} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '20508062'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function MdDeliveryDining} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '2491067390'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function SiGrab} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '1861789118'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function SiShopee} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '3947261630'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaStore} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '666224830'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaFacebookF} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '169171742'
+}
+ ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... href=... icon={function FaTiktok} iconShellClassName=... index=... label=... note=...>
+                     ^^^^^^^^^^^^^^^^^^^
+    at stringify (<anonymous>) {
+  digest: '2011126174'
+}
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json',
+  page: '/'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\prerender-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\ADVAN\\OneDrive\\Desktop\\Portofolio\\Ertilu\\.next\\prerender-manifest.json'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\1.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\1.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\2.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\2.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\1.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\1.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\2.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\2.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\.next\cache\webpack\client-development\0.pack.gz'
+ ⨯ ./app/layout.tsx
+Error:   [31mx[0m Unexpected token `description`. Expected ... , *,  (, [, :, , ?, =, an identifier, public, protected, private, readonly, <.
+   ,-[[36;1;4mC:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\app\layout.tsx[0m:7:1]
+ [2m4[0m | export const metadata: Metadata = {
+ [2m5[0m |   title: "Ertilu | Coffee Shop Bandung",
+ [2m6[0m |   icons
+ [2m7[0m |   description:
+   : [35;1m  ^^^^^^^^^^^[0m
+ [2m8[0m |     "Landing page Ertilu, coffee shop di Bandung dengan akses cepat ke menu, reservasi, dan platform online."
+ [2m9[0m | };
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/layout.tsx
+ ⨯ ./app/layout.tsx
+Error:   [31mx[0m Expected 'from', got 'import'
+   ,-[[36;1;4mC:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\app\layout.tsx[0m:3:1]
+ [2m1[0m | import type { Metadata } from "next";
+ [2m2[0m | import
+ [2m3[0m | import "./globals.css";
+   : [35;1m^^^^^^[0m
+ [2m4[0m | 
+ [2m5[0m | export const metadata: Metadata = {
+ [2m6[0m |   title: "Ertilu | Coffee Shop Bandung",
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/layout.tsx
+ ⨯ ./app/layout.tsx
+Error:   [31mx[0m Unterminated string constant
+    ,-[[36;1;4mC:\Users\ADVAN\OneDrive\Desktop\Portofolio\Ertilu\app\layout.tsx[0m:8:1]
+ [2m 5[0m | export const metadata: Metadata = {
+ [2m 6[0m |   title: "Ertilu | Coffee Shop Bandung",
+ [2m 7[0m |   icons: {
+ [2m 8[0m |     icon: "/Ertilulogo.png\,
+    : [35;1m          ^^^^^^^^^^^^^^^^^^[0m
+ [2m 9[0m |   },
+ [2m10[0m |   description:
+ [2m11[0m |     "Landing page Ertilu, coffee shop di Bandung dengan akses cepat ke menu, reservasi, dan platform online."
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/layout.tsx
