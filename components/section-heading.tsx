@@ -26,7 +26,7 @@ export function SectionHeading({
         {eyebrow}
       </p>
       <h2
-        className={`mt-2 font-['Iowan_Old_Style','Palatino_Linotype','Book_Antiqua',serif] text-[2rem] leading-tight ${titleClass}`}
+        className={`mt-2 font-['Iowan_Old_Style','Palatino_Linotype','Book_Antiqua',serif] text-[1.75rem] leading-tight sm:text-[2rem] ${titleClass}`}
       >
         {title}
       </h2>
