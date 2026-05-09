@@ -30,13 +30,12 @@ export function AccessCard({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.4 }}
       transition={{ duration: 0.4, delay: 0.05 * index }}
-      whileHover={{ y: -4, scale: 1.01 }}
-      className="group relative flex h-full min-h-[13rem] flex-col overflow-hidden rounded-[1.6rem] border border-[#ead4bb] bg-[linear-gradient(180deg,#fffaf4_0%,#fff5e7_100%)] px-4 py-4 shadow-[0_10px_24px_rgba(55,31,15,0.05)] transition-[background-color,box-shadow] duration-300 hover:bg-white hover:shadow-[0_18px_36px_rgba(55,31,15,0.1)] sm:min-h-[12.5rem]"
+      whileHover={{ y: -2 }}
+      className="group rounded-[1.5rem] border border-[#ead4bb] bg-[#fffaf4] px-4 py-4 shadow-[0_10px_24px_rgba(55,31,15,0.05)] transition-colors duration-300 hover:bg-white"
     >
-      <span className="absolute inset-x-4 top-0 h-px bg-[linear-gradient(90deg,transparent,rgba(228,173,57,0.75),transparent)] opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
       <div className="flex items-center justify-between gap-3">
         <span
-          className={`flex h-12 w-12 items-center justify-center rounded-[1.15rem] text-lg shadow-[0_10px_22px_rgba(55,31,15,0.08)] ${
+          className={`flex h-11 w-11 items-center justify-center rounded-2xl text-lg ${
             iconShellClassName ?? "bg-[#24160f] text-[#e4ad39]"
           }`}
         >
@@ -44,7 +43,7 @@ export function AccessCard({
         </span>
         <HiArrowUpRight className="text-lg text-[#8f6f55] transition-transform duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
       </div>
-      <p className="mt-5 font-['Iowan_Old_Style','Palatino_Linotype','Book_Antiqua',serif] text-[1.5rem] text-[#24160f] sm:text-[1.65rem]">
+      <p className="mt-4 font-['Iowan_Old_Style','Palatino_Linotype','Book_Antiqua',serif] text-[1.65rem] text-[#24160f]">
         {label}
       </p>
       <p className="mt-2 text-sm leading-6 text-[#6a5546]">{note}</p>
