@@ -50,7 +50,7 @@ export default function Home() {
               {businessInfo.summary}
             </p>
 
-            <div className="mt-7 flex flex-wrap gap-3">
+            <div className="mt-7 flex flex-wrap justify-center gap-3 sm:justify-start">
               {primaryActions.map(({ label, href, icon: Icon }, index) => (
                 <ActionButton
                   key={label}
@@ -216,6 +216,9 @@ export default function Home() {
               Buka lokasi
               <HiArrowUpRight className="text-base" />
             </a>
+          </div>
+          <div className="mt-8 border-t border-white/10 pt-6 text-center text-[0.7rem] text-[#8d6f58]">
+            <p>© {new Date().getFullYear()} {businessInfo.name} — Family Coffee & Dessert Official.</p>
           </div>
         </FadeIn>
       </div>
