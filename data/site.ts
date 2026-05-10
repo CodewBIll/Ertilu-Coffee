@@ -52,8 +52,8 @@ export const businessInfo: BusinessInfo = {
     "Dibuat untuk menikmati kopi tanpa terburu-buru.",
   address:
     "Jl. Bagusrangin No.14, Lebakgede, Coblong, Bandung.",
-  mapsUrl: "https://maps.google.com/?q=Jl.+Bagusrangin+No.14,+Bandung",
-  whatsappUrl: "https://wa.me/6280000000000",
+  mapsUrl: "https://maps.app.goo.gl/H3phVS7D8SJC6peK7",
+  whatsappUrl: "https://wa.me/6282219594616",
   hours: "Setiap hari, 09.00 - 22.00 WIB"
 };
 
@@ -88,42 +88,42 @@ export const primaryActions: ActionLink[] = [
 export const quickAccessLinks: AccessLink[] = [
   {
     label: "Menu",
-    href: "https://example.com/menu-ertilu",
+    href: "https://drive.google.com/file/d/1VBR3gmu6q_aJnFDVu9E7HWtKxsw2Sdec/view?usp=drive_link",
     icon: MdRestaurantMenu,
     note: "Lihat minuman & snack",
     iconShellClassName: "bg-[#f9f2e6] text-[#b87c22]"
   },
   {
     label: "RSV & Contact",
-    href: businessInfo.whatsappUrl,
+    href: "https://wa.me/6282219594616",
     icon: FaWhatsapp,
     note: "Reservasi & tanya meja",
     iconShellClassName: "bg-[#25d366] text-white"
   },
   {
     label: "GoFood",
-    href: "https://gofood.link/placeholder-ertilu",
+    href: "https://gofood.link/u/DM2Or",
     icon: MdDeliveryDining,
     note: "Order cepat dari mobile",
     iconShellClassName: "bg-[#dc2626] text-white"
   },
   {
     label: "GrabFood",
-    href: "https://food.grab.com/id/id/restaurant/ertilu-placeholder",
+    href: "https://grab.onelink.me/2695613898?pid=inappsharing&c=6-CYXTRJ5WG333GN&is_retargeting=true&af_dp=grab%3A%2F%2Fopen%3FscreenType%3DGRABFOOD%26sourceID%3DA4pcqCZkS4%26merchantIDs%3D6-CYXTRJ5WG333GN&af_force_deeplink=true&af_web_dp=https%3A%2F%2Fwww.grab.com",
     icon: SiGrab,
     note: "Alternatif delivery harian",
     iconShellClassName: "bg-[#00b14f] text-white"
   },
   {
     label: "ShopeeFood",
-    href: "https://shopee.co.id/m/shopeefood",
+    href: "https://shopee.co.id/universal-link/now-food/shop/885384?deep_and_deferred=1&share",
     icon: SiShopee,
     note: "Akses pesan dari Shopee",
     iconShellClassName: "bg-[#f97316] text-white"
   },
   {
     label: "Tokopedia",
-    href: "https://www.tokopedia.com/placeholder-ertilu",
+    href: "https://tokopedia.link/Dtqlixw2Ulb",
     icon: FaStore,
     note: "Produk retail",
     iconShellClassName: "bg-[#16a34a] text-white"
@@ -159,7 +159,7 @@ export const visualStories: VisualStory[] = [
 export const socialLinks: AccessLink[] = [
   {
     label: "Facebook",
-    href: "https://facebook.com/ertilu",
+    href: "https://www.facebook.com/share/1AwmuJUMYr/",
     icon: FaFacebookF,
     note: "Update informasi dan kehadiran brand",
     iconShellClassName: "bg-[#1877f2] text-white"
